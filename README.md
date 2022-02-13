@@ -13,8 +13,9 @@ Use for loop to append the values into the list created.
 ### Step 5:
 print the product of two arrays.
 ## PROGRAM:
-
+![](pic2.jpg)
 ## OUTPUT:
+```
 import numpy as np
 x = int(input())
 l1 =[]
@@ -26,5 +27,6 @@ l2.append(int(input()))
 arr1 = np.array(l1)
 arr2 = np.array(l2)
 print("Product of two arrays is:",arr1*arr2)
+```
 ## RESULT:
 Thus the program is written to multiply two matrix
